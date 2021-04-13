@@ -106,3 +106,14 @@ button:focus {
 button svg {
   margin-right: 5px;
 }
+@media all and (max-width: 520px)
+{
+  .app {
+    border-radius: 6px;
+    margin-right: 5%;
+    padding: 12% 12% 12% 12%;
+    color: black;
+    background-color:#252d4a;
+  }
+
+}
